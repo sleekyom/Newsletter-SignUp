@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "request": "^2.88.0"
   }
 }
-//4242 4242 4242 4242 - Exp: 01/20 - CVV: 123
